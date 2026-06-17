@@ -1,4 +1,9 @@
-## Hi there 👋
+### A little bit about me
+Hello World! My name is Geo. I'm a full-stack engineer.
+
+### Past Work
+
+I've had the pleasure to work with small web shops all the way to 9 figure businesses. I've had roles in making sure a button color is just right, to ensuring that software architecture could handle around 8 figures in daily users. While it was hard work, fortunately nothing ever blew up in our face.
 
 <!--
 **loinnan/loinnan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
